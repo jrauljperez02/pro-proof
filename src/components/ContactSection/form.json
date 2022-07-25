@@ -1,0 +1,55 @@
+{
+    "title" : "Contáctame.",
+    "cards" : [
+        {
+            "id" : 0,
+            "icon" : "fas fa-map-marker-alt",
+            "description" : "Address",
+            "content-description" : "Gustavo A. Madero. Ciudad de México."
+        },
+        {
+            "id" : 1,
+            "icon" : "fas fa-phone",
+            "description" : "Cellphone",
+            "content-description" : "+52 246 103 4307"
+        },
+        {
+            "id" : 2,
+            "icon" : "fas fa-envelope",
+            "description" : "Email",
+            "content-description" : "jraul.jperez71@gmail.com"
+        },
+        {
+            "id" : 3,
+            "icon" : "fas fa-globe",
+            "description" : "Website",
+            "content-description" : "jrauljperez.netlify.app"
+        },
+        {
+            "id" : 4,
+            "icon" : "fab fa-github",
+            "description" : "Github",
+            "content-description" : "@jrauljperez02"
+        },
+        {
+            "id" : 5,
+            "icon" : "fab fa-linkedin-in",
+            "description" : "Linkdin",
+            "content-description" : "@jrauljperez02"
+        },
+        
+        {
+            "id" : 6,
+            "icon" : "fab fa-instagram",
+            "description" : "Instagram",
+            "content-description" : "@jrauljperez02"
+        },
+        {
+            "id" : 7,
+            "icon" : "fab fa-twitter",
+            "description" : "Twitter",
+            "content-description" : "@jrauljperez02"
+        }
+
+    ]
+}
